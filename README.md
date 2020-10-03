@@ -1,4 +1,5 @@
 # Darkmode
+This project is based on that how to add **DarkMode** in angular.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
